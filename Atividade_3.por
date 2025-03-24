@@ -7,5 +7,6 @@ programa {
     leia (d)
     r = c * d
     escreva ("O resultado é:" + r)
+
   }
 }
